@@ -1,6 +1,10 @@
 //backtracking: print all permutations of string
 
 
+//visit this
+//link: https://www.techiedelight.com/find-permutations-given-string/
+
+
 #include <stdio.h>
 #include<bits/stdc++.h>
 using namespace std;
