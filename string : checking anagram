@@ -1,7 +1,11 @@
 
-
-
 //checking anagram
+
+
+Method 1: O(n)
+
+
+Method 2: O(nlogn)
 
 #include <iostream>
 #include<bits/stdc++.h>
